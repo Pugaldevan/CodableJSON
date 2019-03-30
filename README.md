@@ -1,3 +1,3 @@
 # CodableJSON
-Encodable Model to JSON
-Decodable JSON data to Model
+Encodable Model to JSON.
+Decodable JSON data to Model.
